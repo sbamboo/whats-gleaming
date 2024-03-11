@@ -1,0 +1,3 @@
+name = "whats_gleaming"
+[dependencies]
+gleam_stdlib = "~> 0.36"
